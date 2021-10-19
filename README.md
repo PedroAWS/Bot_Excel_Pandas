@@ -15,7 +15,7 @@
 * `import pyautogui` e `import pyperclip` <br> 
 * ou colocar o `as` e indicar um apelido para encurtar tipo `import pyautogui as pg` e `import pyperclip as cp`
 
-## import time 
+## Import time 
 Vamos importar o `time` caso variar o tempo de carregamento iremos colocar o <br> `pyautogui` e o `pyperclip` para ter um `delay` na execução  dos comandos.<br><br>
 
 O `pyautogui.click`(x = 111, y = 111)<br>
