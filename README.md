@@ -12,7 +12,7 @@
 * Instalar as bibliotecas `!pip install pyautogui` e  `!pip install pyperclip` basta execultar cada uma na cedula do Jupyter
 
 ## Importar Pyautogui e Pyperclip
-* `import pyautogui` e `import pyperclip`
+* `import pyautogui` e `import pyperclip` ou colocar o `as` e indicar um apelido para encurtar tipo `import pyautogui as pg`<br>`import pyperclip as cp`
 
 ## import time 
 Vamos importar o `time` caso variar o tempo de carregamento iremos colocar o <br> `pyautogui` e o `pyperclip` para ter um `delay` na execução  dos comandos.<br><br>
